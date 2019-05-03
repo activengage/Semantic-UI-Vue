@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import 'semantic-ui-css/semantic.css';
+import 'fomantic-ui-css/semantic.css';
 
 export default {
   name: 'App',

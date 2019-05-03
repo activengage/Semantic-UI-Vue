@@ -81,7 +81,7 @@
 </template>
 
 <script>
-import 'semantic-ui-css/semantic.css';
+import 'fomantic-ui-css/semantic.css';
 import * as collections from 'src/collections';
 import * as elements from 'src/elements';
 import * as modules from 'src/modules';
